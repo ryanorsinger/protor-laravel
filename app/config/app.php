@@ -134,7 +134,8 @@ return array(
 		'Illuminate\Validation\ValidationServiceProvider',
 		'Illuminate\View\ViewServiceProvider',
 		'Illuminate\Workbench\WorkbenchServiceProvider',
-
+	   	'Laracasts\Commander\CommanderServiceProvider',
+	   	'Way\Generators\GeneratorsServiceProvider',
 	),
 
 	/*
