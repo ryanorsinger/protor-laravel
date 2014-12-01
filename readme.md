@@ -1,4 +1,7 @@
-## Laravel PHP Framework
+## Custom Laravel Setup
+
+### Changes
+- Remove composer.lock from .gitignore so that each contributor will share the same locked composer settings.
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
