@@ -6,17 +6,17 @@ return array(
     'DB_USER' => '',
     'DB_PASS' => '',
 
-    'MAIL_HOST' => '',
-    'MAIL_USER' => '',
-    'MAIL_PASS' => '',
-
     'USER_USERNAME' => '',
     'USER_PASSWORD' => '',
     'USER_EMAIL' => '',
     'USER_FIRSTNAME' => '',
     'USER_LASTNAME' => '',
 
-    'GOOGLE_API_KEY' => '',
+    'GOOGLE_MAPS_API_KEY' => '',
 
-    'SITE_URL' => 'http://whatever.dev',
+    'SITE_URL' => '',
+
+    'MAIL_HOST' => '',
+    'MAIL_USER' => '',
+    'MAIL_PASS' => '',
 );
