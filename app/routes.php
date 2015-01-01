@@ -16,12 +16,12 @@ Route::get('/', function()
 	return View::make('hello');
 });
 
-Route::resource('images', 'PostsController');
+Route::resource('posts', 'PostsController');
 
-Route::resource('images', 'UsersController');
+Route::resource('users', 'UsersController');
 
-Route::resource('images', 'TagsController');
+Route::resource('tags', 'TagsController');
 
-Route::resource('images', 'HappeningsController');
+Route::resource('happenings', 'HappeningsController');
 
 Route::resource('images', 'ImagesController');
