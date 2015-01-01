@@ -13,5 +13,15 @@
 
 Route::get('/', function()
 {
-	return View::make('sample');
+	return View::make('hello');
 });
+
+Route::resource('images', 'PostsController');
+
+Route::resource('images', 'UsersController');
+
+Route::resource('images', 'TagsController');
+
+Route::resource('images', 'HappeningsController');
+
+Route::resource('images', 'ImagesController');
