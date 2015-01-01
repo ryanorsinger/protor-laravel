@@ -1,0 +1,1 @@
+/vagrant/sites/protor.dev/app/views/posts/index.blade.php

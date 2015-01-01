@@ -1,0 +1,1 @@
+/vagrant/sites/protor.dev/app/views/happenings/create.blade.php
